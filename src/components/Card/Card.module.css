@@ -1,0 +1,33 @@
+.card{
+    height: 345px;
+    width: 250px;
+    border-radius: 30px;
+    background-color: #FF8D21;
+    cursor: pointer;
+}
+
+.BookImg{
+    width: 211px;
+    height: 238px;
+    border-radius: 15px;
+    padding: 20px 20px 11px 20px;
+}
+
+.info{
+    padding: 0 0 30px 20px;
+}
+
+.name{
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: white;
+    line-height: 20px;
+    padding-bottom: 5px;
+}
+
+.autor{
+    font-family: "Ubuntu", sans-serif;
+    font-size: 14px;
+    color: #FFD6AE;
+}
